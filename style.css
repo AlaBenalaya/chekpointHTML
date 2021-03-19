@@ -1,0 +1,122 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  color: rgb(247, 10, 10);
+  text-decoration: coral;
+}
+#a {
+  position: absolute;
+  left: 1200px;
+  top: 20px;
+}
+#s {
+  position: relative;
+  bottom: 150px;
+  left: 600px;
+}
+label {
+  display: block;
+  font: 1rem "Fira Sans", sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}
+#c {
+  position: relative;
+  left: 1250px;
+  bottom: 130px;
+}
+header nav {
+  width: 1350px;
+  height: 60px;
+  background-color: #2e3192;
+  top: 200px;
+}
+header nav ul {
+  height: 60px;
+  padding: 22px;
+}
+header nav ul li {
+  list-style: none;
+  display: inline;
+}
+header nav ul li :hover {
+  background-color: #f58220;
+  height: 60px;
+}
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 40px;
+}
+section h1 {
+  border: crimson;
+  text-align: center;
+  text-decoration: darkblue;
+  background-color: darkorchid;
+}
+section article {
+  width: 226px;
+  height: auto;
+  border: solid 1px #f0e4e4;
+  margin: 20px 3px;
+  text-align: center;
+  float: left;
+}
+section article {
+  width: 226px;
+  height: auto;
+  border: solid 1px #f0e4e4;
+  margin: 20px 3px;
+  text-align: center;
+  float: left;
+}
+.prix {
+  text-decoration: line-through;
+  color: #2e3192;
+  font-weight: bold;
+}
+.prixpromo {
+  font-weight: bold;
+  color: #f3701a;
+}
+.prixx {
+  color: #f3701a;
+  font-weight: bold;
+}
+#ta h1 {
+  color: rgb(185, 27, 27);
+  top: 380px;
+  text-align: center;
+  position: relative;
+}
+#v {
+  position: relative;
+  margin-left: 250px;
+}
+footer ul {
+  width: 300px;
+  float: left;
+  margin: 0 30px;
+}
+
+footer ul li {
+  list-style: none;
+  border-bottom: solid 1px white;
+}
+footer ul li a {
+  text-decoration: none;
+  color: white;
+}
+.b t1 {
+  width: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  justify-content: space-evenly;
+  justify-content: space-between;
+  margin-left: 20px;
+}
